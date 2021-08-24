@@ -1,0 +1,13 @@
+node_modules
+
+# Truffle
+build
+
+# Gatsby folders
+public
+.cache
+
+# IDE folders
+.idea
+
+.env
